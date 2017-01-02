@@ -1,0 +1,49 @@
+
+body{
+    background-color: #F9FB93;
+}
+h1{
+    color: #BE5413;
+}
+#title{
+    color: #825335;
+    font-size: 27px;
+    font-family: Serif;
+}
+#title #username{
+    color: #4DA121;
+    font-size: 29px;
+    font-family: Serif;
+}
+#wrapper{
+    height: 1500px;
+    width:600px;
+    margin: 10px auto auto auto;
+
+}
+#head{
+    text-align: center;
+}
+
+#content{
+    background-color: antiquewhite;
+    height: 100%;
+
+    overflow: scroll;
+}
+#name_span{
+    font-family: FreeSans;
+    font-size: 17px;
+    color: darkred;
+}#message_span{
+    font-family: FreeSans;
+    font-size: 17px;
+    color: blue;
+}
+
+ #chat{
+     height: 300px;
+ }
+ #chat form p{
+     bottom :0px;
+ }
